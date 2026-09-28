@@ -1,0 +1,7 @@
+{
+  "name": "MediLink Africa",
+  "description": "Secure cloud-based Electronic Health Record platform with portable QR code patient access, AI clinical summaries, and role-based access control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
